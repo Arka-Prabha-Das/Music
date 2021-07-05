@@ -1,5 +1,7 @@
 You need to have Python installed on your system.
 You should have the following libraries installed:
     -- Pygame 
-    --Tkinter
-    --Pillow
+    -- Tkinter
+    -- Pillow
+
+
